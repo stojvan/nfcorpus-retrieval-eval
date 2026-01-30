@@ -8,6 +8,6 @@ name = "retrieval_agent"
 env = {OPENAI_API_KEY = "${OPENAI_API_KEY}", BASE_URL = "https://api.openai.com/v1", MODEL = "gpt-4.1"}
 
 [config]
-num_queries = 10
+num_queries = 100
 top_k = 5
 random_seed = 7
