@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/stojvan/nfcorpus-retrieval-evaluator@sha256:cee0bcdd6c6af85f136f430b6391c09844bdb0dd640d009031d1a94a774211a9",
+    "retrieval_agent": "ghcr.io/stojvan/nfcorpus-retrieval-agent@sha256:8159521ec8f52ebb6ac2c03279ce231275dda72ee21688d48883edf463c56150",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-30T22:27:30Z",
+  "github_actions": {
+    "run_url": "https://github.com/stojvan/nfcorpus-retrieval-eval/actions/runs/21532802366",
+    "run_logs_url": "https://api.github.com/repos/stojvan/nfcorpus-retrieval-eval/actions/runs/21532802366/logs",
+    "ref": "refs/heads/stojvan-patch-7",
+    "sha": "3176cef9b123f4cf3aa166e2d8b25fd3ae2cdc8f",
+    "repository_url": "https://github.com/stojvan/nfcorpus-retrieval-eval",
+    "workflow_ref": "stojvan/nfcorpus-retrieval-eval/.github/workflows/run-scenario.yml@refs/heads/stojvan-patch-7",
+    "workflow_sha": "3176cef9b123f4cf3aa166e2d8b25fd3ae2cdc8f"
+  }
+}

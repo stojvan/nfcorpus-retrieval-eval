@@ -1,0 +1,14 @@
+[green_agent]
+agentbeats_id = "019c0451-424f-72b2-9611-3752234d848d"
+env = {OPENAI_API_KEY = "${OPENAI_API_KEY}"}
+
+[[participants]]
+agentbeats_id = "019c0445-1666-7a12-99cd-2f645aaef5e5"
+name = "retrieval_agent"
+env = {OPENAI_API_KEY = "${OPENAI_API_KEY}", BASE_URL = "https://api.openai.com/v1", MODEL = "gpt-4.1"}
+
+
+[config]
+num_queries = 10
+top_k = 5
+random_seed = 7
