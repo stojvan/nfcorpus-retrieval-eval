@@ -1,0 +1,22 @@
+{
+  "participants": {
+    "retrieval_agent": "019c0445-1666-7a12-99cd-2f645aaef5e5"
+  },
+  "results": [
+    {
+      "assessment_type": "nfcorpus_retrieval",
+      "num_queries": 10,
+      "evaluated_queries": 10,
+      "top_k": 5,
+      "metrics": {
+        "ndcg@5": 0.0,
+        "mrr@5": 0.0,
+        "precision@5": 0.0,
+        "recall@5": 0.0
+      },
+      "execution_time_seconds": 118.72,
+      "successful_queries": 10,
+      "failed_queries": 0
+    }
+  ]
+}
